@@ -7,6 +7,7 @@ using System;
 namespace SeleniumNUnitParam
 {
     //Enum for browserType
+    //Testing
     public enum BrowerType
     {
         Chrome,
